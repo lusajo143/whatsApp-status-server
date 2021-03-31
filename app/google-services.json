@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469932724757",
+    "project_id": "status-server-9e890",
+    "storage_bucket": "status-server-9e890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469932724757:android:0ad00c1ae2fdb20767b41c",
+        "android_client_info": {
+          "package_name": "com.techdealers.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469932724757-efv6gd7ogk9dps76l158s185mll8v67n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqvhpxq8aPbxVaDUyc1ZgfFszXH0dLXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469932724757-efv6gd7ogk9dps76l158s185mll8v67n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
